@@ -1,0 +1,6 @@
+{
+  "name": "React-ajax",
+  "tagline": "",
+  "body": "### IMDB title search.\r\nThis application searches movie in IMDB web site.\r\n\r\n### Technology Used\r\nThis application is written in React.\r\nAnd uses React.Ajax to fetch the data from IMDB server.\r\nIt uses Axios library to send/get Ajax request.\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
